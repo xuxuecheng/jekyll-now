@@ -1,5 +1,5 @@
 ---
 layout: post
-title: 关于我
+title: About me
 ---
-Hi,你们好！这是我的Android博客。
+Hi,eveyone！This is my blog。
